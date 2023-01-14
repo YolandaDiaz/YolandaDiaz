@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, world! I’m Yoli 😊</h1>
 <h2>A fullstack software develepoment student at Keepcoding</h2>
 <li align="left">
-🌱 I’m currently learning backend with Node.
+🌱 I’m currently learning Vue and Typescript.
 </li>
 <li align="left">  
 📫 How to reach me: www.linkedin.com/in/yolanda-díaz-gómez
