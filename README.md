@@ -20,6 +20,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/zKpfveE.png" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/OVfraTO.png" alt="express" width="40" height="40"/> </a>
+<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/hTwRNlp" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/zKpfveE.png" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
 
