@@ -25,6 +25,7 @@
 <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/OVfraTO.png" alt="express" width="40" height="40"/> </a>
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/es/database/technologies/appdev/xe/quickstart.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/> </a> 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 
 
